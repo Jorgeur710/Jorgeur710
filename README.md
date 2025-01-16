@@ -1,7 +1,8 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 
-  <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
-  Bienvenido a mi perfil! ( Currently Inactive )
+ 
+  Bienvenido a mi perfil!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -17,14 +18,14 @@
 
 # 💫Sobre mi :
 
-🔭Actualmente en  : 
+🔭Actualmente en  : Estudiando
 
 🌱Aprendiendo : Flutter y dart
 
   👯 Abierto a colaborar con cualquiera
 
   📫 Como contactarme:  
-  mail:jorge.urena@gmail.com"
+  Mail:jorge.urena@gmail.com"
 
 # 💻Tecnologias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 
